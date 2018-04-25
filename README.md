@@ -1,2 +1,2 @@
 # Hello-world
-Notebook
+Notebook for dumping ideas
